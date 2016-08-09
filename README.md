@@ -1,8 +1,10 @@
 # angular2-webpack-seed
 
+Forked and changed to include nativescript from [Nathan Walkers angular2-webpack-seed](https://github.com/NathanWalker/angular2-webpack-seed)
+
 A simple Angular 2 seed that has a directory structure ready for integration with other platforms like [NativeScript](https://www.nativescript.org/). This is primarily provided to demo the integration with [nativescript-ng2-magic](https://github.com/NathanWalker/nativescript-ng2-magic).
 
-This is based on [angular2-webpack](https://github.com/preboot/angular2-webpack). 
+This is based on [angular2-webpack](https://github.com/preboot/angular2-webpack).
 
 ```bash
 # clone our repo
